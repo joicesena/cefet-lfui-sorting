@@ -34,21 +34,21 @@
 1447458394 source:c:\users\flavio\documents\github\cefet-lfui-sorting\selecao.cpp
 	"ordenacao.h"
 
-1478536928 source:c:\users\aluno\cefet-lfui-sorting\heapsort.cpp
+1478538964 source:c:\users\aluno\cefet-lfui-sorting\heapsort.cpp
 	"ordenacao.h"
 
 1478538964 c:\users\aluno\cefet-lfui-sorting\ordenacao.h
 
-1478536928 source:c:\users\aluno\cefet-lfui-sorting\insercao.cpp
+1478538964 source:c:\users\aluno\cefet-lfui-sorting\insercao.cpp
 	"ordenacao.h"
 
-1478536928 source:c:\users\aluno\cefet-lfui-sorting\quicksort.cpp
+1478538964 source:c:\users\aluno\cefet-lfui-sorting\quicksort.cpp
 	"ordenacao.h"
 
-1478536928 source:c:\users\aluno\cefet-lfui-sorting\selecao.cpp
+1478538964 source:c:\users\aluno\cefet-lfui-sorting\selecao.cpp
 	"ordenacao.h"
 
-1478538516 source:c:\users\aluno\cefet-lfui-sorting\main.cpp
+1478539416 source:c:\users\aluno\cefet-lfui-sorting\main.cpp
 	<stdlib.h>
 	<stdio.h>
 	<time.h>
